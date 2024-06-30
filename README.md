@@ -1,5 +1,4 @@
 [!MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
 
